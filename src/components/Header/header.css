@@ -1,0 +1,30 @@
+.hidden{
+    visibility: collapse;
+}
+
+.navButton{
+    color: #ffffff;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.title{
+    font-weight: 700;
+}
+
+.accountbtn{
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    padding: 10px 22px 10px 22px;
+    transition: 0.15s;
+    font-size: medium;
+}
+
+.accountbtn:hover{
+    background-color: #ffffff;
+    color: #464646
+}
+
